@@ -10,9 +10,13 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     
-                    <p class="text-gray-600 mb-4">Peta lokasi real-time. (Contoh lokasi di sekitar Cikampek)</p>
-                    
-                     <div id="map"></div>
+                 <div class="p-4 bg-white rounded-xl shadow">
+    <h2 class="text-lg font-semibold mb-2">
+        Peta lokasi real-time. (Contoh lokasi di sekitar Cikampek)
+    </h2>
+    <div id="map" style="height: 500px;"></div>
+</div>
+
 
 
                 </div>
